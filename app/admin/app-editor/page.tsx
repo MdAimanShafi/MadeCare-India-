@@ -17,4 +17,4 @@ export default function AppEditorPage() {
     aboutText: "Empowering health with intelligent technology and compassionate care.",
     footerText: "© 2024 MadeCare India. All rights reserved.",
   })
-  const [savedContent, setSavedContent] = useState
+  const [savedContent, setSavedContent] = useState({})
